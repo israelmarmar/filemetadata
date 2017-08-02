@@ -1,0 +1,16 @@
+{
+  "name": "imagesearch",
+  "version": "0.0.1",
+  "author": "Israel Martins",
+  "description": "Image Search Abstraction Layere",
+  "engines": {
+    "node": "latest",
+    "npm": "latest"
+  },
+  "dependencies": {
+    "express": "latest",
+    "multer":"latest" },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
